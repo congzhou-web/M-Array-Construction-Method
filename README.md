@@ -1,6 +1,6 @@
 ## M-Array-Construction-Method
 
-A new method of M-Array construction based on non-zero maps theory.m-array with a large array size and close numbers of rows and columns is
+A new method of M-Array construction based on non-zero maps theory. M-Array with a large array size and close numbers of rows and columns is
 constructed by dividing and splicing m-sequence. Comparing with existing methods, the advantages of the 
 algorithm include larger array size, more balanced number of rows and columns, and lower computational 
 complexity. If needed, the method in this paper is flexible enough that the number of rows and columns of 

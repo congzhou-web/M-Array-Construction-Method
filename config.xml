@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<root>
+	<element_2>                           <!--     二元阵列      -->
+		<step_2>11</step_2>					 <!--   1209      -->
+		<step_3>11</step_3>					 <!--   1209      -->
+		<step_4>11</step_4>  				<!--     二元四级阵列  右边为高位    -->  
+		<step_5>101</step_5>					 <!--   1209      -->
+		<step_6>100001</step_6>  
+		<step_8>10111</step_8>  
+		<step_9>10001</step_9>  
+		<step_12>1100101</step_12>  
+		<step_15>11</step_15>  
+		<step_16>101101</step_16> 
+		<step_20>1001</step_20> 
+		<step_24>11011</step_24> 
+		<step_25>1001</step_25> 
+	</element_2>
+	<element_3> 
+		<step_2>21</step_2> 
+		<step_3>12</step_3>					 <!--   1209      -->
+		<step_4>21</step_4>  
+		<step_5>12</step_5>					 <!--   1209      -->
+		<step_6>21</step_6>  
+		<step_8>2001</step_8>
+		<step_9>1012</step_9>
+		<step_12>210001</step_12>
+		<step_16>22011</step_16>
+		<step_25>1002</step_25>
+	</element_3>
+	<element_5> 
+		<step_4>221</step_4>  				 
+		<step_6>21</step_6>  
+		<step_8>321</step_8>
+		<step_9>321</step_9>
+		<step_12>3201</step_12>
+		<step_16>2301</step_16>
+		<step_25>2302</step_25>
+	</element_5>
+
+</root>
+
+
+
+
